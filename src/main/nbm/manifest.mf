@@ -1,3 +1,4 @@
 Manifest-Version: 1.0
+OpenIDE-Module-Display-Category: HTML5
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/react/react/Bundle.properties
 
