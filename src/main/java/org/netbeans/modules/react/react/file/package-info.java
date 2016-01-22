@@ -1,5 +1,5 @@
 @TemplateRegistration(
-        folder = "html5", 
+        folder = "ClientSide", 
         content = "JSXTemplate.jsx", 
         requireProject = false, 
         description = "JSXDescription.html",
