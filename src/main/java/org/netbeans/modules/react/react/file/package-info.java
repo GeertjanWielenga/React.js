@@ -12,7 +12,7 @@
         requireProject = false,
         displayName = "React Basic Component",
         iconBase = "org/netbeans/modules/react/react/file/react.png",
-        scriptEngine = "javascript"
+        scriptEngine = "freemarker"
     ),
     @TemplateRegistration(
         folder = "ClientSide",
@@ -20,7 +20,7 @@
         requireProject = false,
         displayName = "React Stateless Component",
         iconBase = "org/netbeans/modules/react/react/file/react.png",
-        scriptEngine = "javascript"
+        scriptEngine = "freemarker"
     )
 })
 package org.netbeans.modules.react.react.file;
